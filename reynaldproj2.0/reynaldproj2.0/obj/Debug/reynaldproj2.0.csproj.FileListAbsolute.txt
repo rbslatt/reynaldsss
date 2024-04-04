@@ -1,0 +1,9 @@
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\reynaldproj2.0\reynaldproj2.0\bin\Debug\reynaldproj2.0.exe.config
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\reynaldproj2.0\reynaldproj2.0\bin\Debug\reynaldproj2.0.exe
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\reynaldproj2.0\reynaldproj2.0\bin\Debug\reynaldproj2.0.pdb
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\reynaldproj2.0\reynaldproj2.0\obj\Debug\reynaldproj2._0.Form1.resources
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\reynaldproj2.0\reynaldproj2.0\obj\Debug\reynaldproj2._0.Form2.resources
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\reynaldproj2.0\reynaldproj2.0\obj\Debug\reynaldproj2._0.Properties.Resources.resources
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\reynaldproj2.0\reynaldproj2.0\obj\Debug\reynaldproj2.0.csproj.GenerateResource.Cache
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\reynaldproj2.0\reynaldproj2.0\obj\Debug\reynaldproj2.0.exe
+C:\Users\Cong\Documents\Visual Studio 2012\Projects\reynaldproj2.0\reynaldproj2.0\obj\Debug\reynaldproj2.0.pdb
